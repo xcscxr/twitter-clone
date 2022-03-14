@@ -1,2 +1,2 @@
-# twitter-clone
+# Twitter Clone
 Learning JavaScript -_-
